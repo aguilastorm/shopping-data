@@ -1,7 +1,6 @@
 import unittest
 import csv
 import os
-from unittest.mock import Mock, call, patch
 from generators.file_generator import FileGenerator
 
 class TestFileGenerator(unittest.TestCase):
